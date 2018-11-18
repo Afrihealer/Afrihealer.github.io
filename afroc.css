@@ -1,0 +1,12 @@
+body
+{background-image:url(weed.jpg);
+}
+
+h1
+{color:green;
+	border: 5px solid;
+	text-align: center;
+	background-color: lime
+}
+li
+{display:inline-block;
